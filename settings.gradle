@@ -1,0 +1,2 @@
+rootProject.name = "FMMarkView"
+include ':app'
